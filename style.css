@@ -12,10 +12,6 @@ footer {
     padding: 15px;
 }
 
-main{
-    
-}
-
 img{
     margin-left: 600px;
     width: 300px;
@@ -34,4 +30,9 @@ header{
 
 .a header{
     color: white;
+}
+
+button{
+    color: white;
+    background-color: rgb(123, 13, 13);
 }
